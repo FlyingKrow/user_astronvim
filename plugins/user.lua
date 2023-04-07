@@ -9,4 +9,6 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  { "nvim-neo-tree/neo-tree.nvim", enabled = false },
+  { "Everblush/nvim",              name = "everblush" },
 }
